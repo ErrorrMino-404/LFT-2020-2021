@@ -1,0 +1,9 @@
+/* comment ***/
+read(_x1);
+read(y_2);
+while(<_x1 0)
+    cond     when(> _x1 y_2) do {= _x1 - _x1 y_2; print(_x1)}
+        when (== _x1 y_2) do print(100)
+        else {= _x1 - _x1 1; print(_x1)};
+print(_x1 *(2 3 4))
+//commento
